@@ -4,6 +4,9 @@ other = "Posts"
 [about]
 other = "About"
 
+[code]
+other = "Code"
+
 [writtenBy]
 other = "Written by"
 
